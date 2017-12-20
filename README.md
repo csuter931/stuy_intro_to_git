@@ -18,11 +18,11 @@ When you run it for the first time you will see one error message and one mistak
 
 Open the script with the Text Editor and using what you have learned from the Shell Workshop tutorial and some online research, fix the code so that the shell script runs correctly.
 
-Commit your changes
+Commit your changes.
 
-Push changes to your Github repo
+Push changes to your Github repo.
 
-create a pull request into csuter931/stuy_intro_to_git on Github
+Create a pull request into csuter931/stuy_intro_to_git on Github.
 
 ## Expected Output
 
