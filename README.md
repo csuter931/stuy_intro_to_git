@@ -10,7 +10,7 @@ Clone your copy onto your local Raspberry Pi.
 
 In this project's directory on your Pi run the shell script with the following command:
 
-```
+``
 $ ./Sample_Shell_Script.sh
 ```
 
