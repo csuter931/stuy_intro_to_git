@@ -6,9 +6,9 @@ echo ""
 
 # To fix this, you need to filter the dictionary words
 echo "Number of words containing the string 'auto':"
-cat ~/dictionary.txt | FILL_ME_IN | wc --words
+cat dictionary.txt | grep auto | wc --words
 echo ""
 
 # For this next bug, you may have to research options for the `sort` command using `$ man sort`
 echo "Alphabetically reverse-sorted list of words containing the string 'auto':"
-cat ~/dictionary.txt | grep auto | sort
+cat dictionary.txt | grep auto | sort -r
