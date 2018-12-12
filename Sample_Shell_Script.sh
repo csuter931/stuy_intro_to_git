@@ -6,7 +6,7 @@ echo ""
 
 # To fix this, you need to filter the dictionary words
 echo "Number of words containing the string 'auto':"
-cat ~/dictionary.txt | FILL_ME_IN | wc --words
+cat ~/dictionary.txt | FILLED_IN | wc --words
 echo ""
 
 # For this next bug, you may have to research options for the `sort` command using `$ man sort`
