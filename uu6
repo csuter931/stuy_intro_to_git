@@ -1,0 +1,47 @@
+[33mcommit 5af0a7b446623e031532a15eda8328f5dd06ff12[m
+Author: blarg <c.suter931@gmail.com>
+Date:   Wed Dec 20 10:28:38 2017 -0500
+
+    updated readme
+
+[33mcommit 1398ee09e381a378be0de9da048a4d404e748cad[m
+Author: blarg <c.suter931@gmail.com>
+Date:   Wed Dec 20 10:24:52 2017 -0500
+
+    update readme
+
+[33mcommit 91afcde40059aa33da6f86d7978101654ac87d26[m
+Author: blarg <c.suter931@gmail.com>
+Date:   Wed Dec 20 10:08:12 2017 -0500
+
+    Added expected output file
+
+[33mcommit c9f493f74379df618de8babb6cbae43ea577bc4a[m
+Author: blarg <c.suter931@gmail.com>
+Date:   Wed Dec 20 10:03:29 2017 -0500
+
+    Update to readme, add expected output file, change to full word options
+
+[33mcommit a22f59f9b12fdcb25b18b68e4577110e11bddf48[m
+Author: Chris Suter <ChrisSuter@Suter-MacBook-Pro.local>
+Date:   Sun Dec 17 20:13:57 2017 -0500
+
+    Edit to README
+
+[33mcommit 92c14d40a76b8dd7bebcae5d9d207679b82b0cb1[m
+Author: Mr. Suter <c.suter931@gmail.com>
+Date:   Thu Dec 14 18:25:32 2017 -0500
+
+    add README directions
+
+[33mcommit 506fabaad6602dfc7ed7900f48ef941e7bf950aa[m
+Author: Mr. Suter <c.suter931@gmail.com>
+Date:   Thu Dec 14 18:06:11 2017 -0500
+
+    add shell script to repo
+
+[33mcommit 9551eded6abc9a92bf62bce85f9ddbf63bda2c72[m
+Author: csuter931 <c.suter931@gmail.com>
+Date:   Thu Dec 14 16:37:49 2017 -0500
+
+    Initial commit
