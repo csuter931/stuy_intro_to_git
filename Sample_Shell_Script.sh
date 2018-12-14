@@ -11,4 +11,4 @@ echo ""
 
 # For this next bug, you may have to research options for the `sort` command using `$ man sort`
 echo "Alphabetically reverse-sorted list of words containing the string 'auto':"
-cat ~/dictionary.txt | grep auto | sort -r
+cat ~/dictionary.txt | grep auto | sort  -r
